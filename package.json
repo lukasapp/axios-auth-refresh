@@ -1,6 +1,6 @@
 {
     "name": "axios-auth-refresh",
-    "version": "3.3.6",
+    "version": "3.3.7",
     "description": "Axios plugin which makes it very easy to automatically refresh the authorization tokens of your clients",
     "keywords": [
         "axios",
@@ -13,7 +13,7 @@
     ],
     "main": "dist/index.min.js",
     "types": "dist/index.d.ts",
-    "repository": "https://github.com/Flyrell/axios-auth-refresh",
+    "repository": "https://github.com/lukasapp/axios-auth-refresh",
     "author": "Dawid Zbiński <dawid@zbinski.eu>",
     "license": "MIT",
     "private": false,
